@@ -14,7 +14,7 @@ DefaultContentLanguage = "en"
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
+  favicon = "logo.png"
   description = "Music creation tools"
   twitter = "https://twitter.com/synthfeeder"
   facebook = "https://www.facebook.com/synthfeeder"
