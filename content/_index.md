@@ -1,7 +1,7 @@
 ---
-title: 'Synthfeeder for MicroKORG XL'
+title: 'Synthfeeder for MicroKORG XL+'
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: 'The power of the MicroKORG XL at your fingertips'
+description: 'The power of the MicroKORG XL+ at your fingertips'
 date: 2017-03-02T12:00:00-05:00
 ---
 
