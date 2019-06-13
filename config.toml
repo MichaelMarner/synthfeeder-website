@@ -1,4 +1,4 @@
-baseURL = "http://synthfeeder.com/"
+baseURL = "http://www.synthfeeder.com/"
 languageCode = "en-us"
 title = "Synthfeeder"
 theme = "ananke"
