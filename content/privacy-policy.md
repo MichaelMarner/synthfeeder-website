@@ -1,5 +1,5 @@
 ---
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+featured_image: 'background.jpg'
 title: 'Synthfeeder Privacy Policy'
 description: "You're the customer, not the product"
 date: 2017-03-02T12:00:00-05:00

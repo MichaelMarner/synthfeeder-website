@@ -1,7 +1,15 @@
 ---
 title: 'Synthfeeder for MicroKORG XL+'
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+featured_image: 'background.jpg'
 description: 'The power of the MicroKORG XL+ at your fingertips'
+keywords:
+  - Korg
+  - MicroKORG
+  - Programmer
+  - app
+  - iPad
+  - iPhone
+  - Mobile
 date: 2017-03-02T12:00:00-05:00
 ---
 
