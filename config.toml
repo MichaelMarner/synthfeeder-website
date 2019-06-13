@@ -17,7 +17,7 @@ DefaultContentLanguage = "en"
   favicon = ""
   description = "Music creation tools"
   twitter = "https://twitter.com/synthfeeder"
-  facebook = "https://facebook.com/marner"
+  facebook = "https://www.facebook.com/Synthfeeder-234211762266860"
   background_color_class = "bg-black"
   googleFonts = "https://fonts.googleapis.com/css?family=Lato:300|Open+Sans:300|Source+Code+Pro:200&display=swap"
   custom_css = ["css/fonts.css"]
