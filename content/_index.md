@@ -1,7 +1,8 @@
 ---
 title: 'Synthfeeder for MicroKORG XL+'
 featured_image: 'background.jpg'
-description: 'The power of the MicroKORG XL+ at your fingertips'
+description: |
+  The power of the MicroKORG XL+ at your fingertips
 keywords:
   - Korg
   - MicroKORG
@@ -17,9 +18,9 @@ Synthfeeder for MicroKORG XL puts all the power of the Korg MicroKORG XL+ at you
 
 {{< img src="preview.png" alt="Synthfeeder for Phone and Tablet" >}}
 
-Available soon for iOS and Android.
+Available now for [Android](https://play.google.com/store/apps/details?id=com.synthfeeder.mkxl.pro) (iOS coming soon!).
 
-## Register for the Beta
+## Get notified when iOS is available
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
